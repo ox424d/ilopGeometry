@@ -1,6 +1,6 @@
 /*
  
-@author mamaddiesel
+@author ox424d
 @version 0.0
 
 Last edited: 2018-12-20
